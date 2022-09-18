@@ -1,2 +1,2 @@
 # Final-Project
-Final Project Basic Python Indonesia AI
+Final Project Basic Python
